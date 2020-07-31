@@ -659,6 +659,7 @@ const getStartedReply = (id, greeting) => {
  * https://developers.facebook.com/docs/graph-api/webhooks#setup
  *
  */
+ 
 function verifyRequestSignature(req, res, buf) {
   var signature = req.headers["x-hub-signature"];
   console.log(signature);
