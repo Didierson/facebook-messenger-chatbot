@@ -1,6 +1,6 @@
-#Stigmatized
+#  Stigmatized
 
-###A messenger bot to help sexually assaulted individuals.
+###  A messenger bot to help sexually assaulted individuals.
 
 ### *Build the server*
 
